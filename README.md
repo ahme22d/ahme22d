@@ -89,19 +89,16 @@ I'm building my public project portfolio. This section will feature completed pr
 
 <!-- Add project links here after publishing your repositories. -->
 
-## 🤝 Connect With Me
-
-<p>
-  <a href="https://www.linkedin.com/in/ahmedelkaliny">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:ahmedelkaliny832@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
----
+## 🤝 Contact Me
 
 <p align="center">
-  <i>Learning consistently. Building practical skills. Improving one project at a time.</i>
+  <a href="mailto:ahmedelkaliny832@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ahmedelkaliny832%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/ahmedelkaliny">
+    <img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Elkaliny-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="tel:+201097794192">
+    <img src="https://img.shields.io/badge/Phone-01097794192-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
+  </a>
 </p>
