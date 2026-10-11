@@ -1,93 +1,140 @@
 # Ahmed Elkaliny
-### Computer Science Student | AI/ML Learner | Junior Penetration Tester
+
+### Instructor | Cybersecurity | AI/ML
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Exploring+Artificial+Intelligence;Learning+Machine+Learning+with+Python;Practicing+Web+and+Network+Security;Teaching+and+Sharing+Knowledge" alt="Introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Technical+Instructor+%26+Lifelong+Learner;Junior+Penetration+Tester;Exploring+AI+%26+Machine+Learning;Building+Skills+at+the+Intersection+of+AI+%26+Security" alt="Typing introduction" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ahme22d">
     <img src="https://img.shields.io/badge/GitHub-ahme22d-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-  <img src="https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Cybersecurity-Penetration%20Testing-2E8B57?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Cybersecurity" />
+  <a href="https://www.linkedin.com/in/ahmedelkaliny">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
 </p>
 
 ---
 
 ## 👋 About Me
 
-I'm a third-year student at the **Faculty of Computers and Information, Tanta University**, interested in Artificial Intelligence, Machine Learning, and Cybersecurity.
+I'm a third-year student at the **Faculty of Computers and Information, Tanta University**, with interests spanning **Cybersecurity, Artificial Intelligence, and Machine Learning**.
 
-I also work as an instructor at **eYouth** and a tutor at **iSchool**, where I develop my technical communication and teaching skills.
+Alongside my technical journey, I work as an **Instructor at eYouth** and a **Tutor at iSchool**, combining technical learning with teaching, communication, and knowledge sharing.
 
-My current focus is building a solid foundation in data analysis and Machine Learning while continuing to develop my penetration testing and security assessment skills.
+I enjoy exploring how systems work, analyzing data, understanding security weaknesses, and continuously developing my technical skills.
 
-- 🎓 Computer Science student at Tanta University.
-- 🤖 Learning Machine Learning with Python and scikit-learn.
-- 🔐 Interested in web application security, network penetration testing, and OSINT.
-- 👨‍🏫 Instructor at eYouth and tutor at iSchool.
-- 🚀 Long-term goal: explore the intersection of AI and Cybersecurity.
+- 🎓 **Education:** Faculty of Computers and Information, Tanta University.
+- 👨‍🏫 **Teaching:** Instructor at eYouth | Tutor at iSchool.
+- 🔐 **Cybersecurity:** Penetration testing, reconnaissance, OSINT, and web security.
+- 🤖 **AI/ML:** Python, data analysis, visualization, and Machine Learning fundamentals.
+- 🌱 **Current focus:** Developing practical ML skills and exploring AI Security.
+- 🎯 **Long-term direction:** Connecting AI and Cybersecurity through continuous learning and practical projects.
 
-## 🛠️ Technical Skills
+## 🧑‍🏫 Teaching & Instruction
 
-### AI, Data Analysis & Programming
+I believe technical knowledge becomes more valuable when it can be explained clearly and shared effectively.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,matplotlib,git,github" alt="Python, data analysis and development tools" />
-</p>
+My teaching experience helps me develop skills in:
 
-- **Python:** Programming fundamentals and OOP.
-- **NumPy:** Array operations, indexing, broadcasting, and numerical computation.
-- **Pandas:** DataFrames, data cleaning, grouping, merging, and analysis.
-- **Matplotlib:** Data visualization and exploratory data analysis.
-- **scikit-learn:** Currently learning Machine Learning workflows and model evaluation.
-
-### Cybersecurity
-
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,bash" alt="Linux and Bash" />
-</p>
-
-- Web application penetration testing.
-- Network scanning and service enumeration with Nmap.
-- Reconnaissance, OSINT, DNS, and subdomain discovery.
-- Web testing and request analysis using Burp Suite.
-- Directory and endpoint discovery using tools such as ffuf and Gobuster.
-- Networking fundamentals, including VLANs, ACLs, and OSPF.
-
-*These skills describe my learning and practical focus; specific experience varies by topic.*
-
-### Teaching & Communication
-
-- Technical instruction and programming education.
 - Explaining technical concepts in an accessible way.
-- Supporting learners through structured learning activities.
+- Communicating with learners and supporting their progress.
+- Organizing learning activities and presenting information.
+- Continuously improving my own understanding through teaching.
 
-## 📚 Current Learning Focus
+**Roles:** Instructor at eYouth | Tutor at iSchool
 
-- Machine Learning fundamentals with scikit-learn.
-- Data preprocessing, feature scaling, pipelines, and cross-validation.
-- Model selection and hyperparameter tuning.
-- Continued practice in web and network penetration testing.
-- Exploring AI Security as a future specialization.
+## 🔐 Cybersecurity
 
-## 📊 GitHub Statistics
+My cybersecurity focus is on understanding how applications, networks, and systems can be assessed for security weaknesses.
+
+**Areas of interest and practice:**
+
+- Web Application Penetration Testing
+- Network Scanning and Service Enumeration
+- Reconnaissance and OSINT
+- DNS and Subdomain Enumeration
+- Endpoint and Directory Discovery
+- HTTP Request Analysis and Web Testing
+- Networking Fundamentals
+
+**Tools I've worked with:**
+
+<p>
+  <img src="https://img.shields.io/badge/Nmap-214478?style=flat-square" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/ffuf-333333?style=flat-square" alt="ffuf" />
+  <img src="https://img.shields.io/badge/Gobuster-333333?style=flat-square" alt="Gobuster" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+</p>
+
+I aim to strengthen my practical assessment skills through hands-on labs, structured learning, and authorized security testing.
+
+## 🤖 AI & Machine Learning
+
+I'm building my AI/ML foundation with Python, focusing on data analysis, visualization, and the fundamentals of Machine Learning.
+
+**Languages and libraries:**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+</p>
+
+**Topics I've studied or am currently exploring:**
+
+- Python fundamentals and Object-Oriented Programming.
+- NumPy arrays, numerical operations, and indexing.
+- Pandas data manipulation, cleaning, grouping, and merging.
+- Matplotlib visualization and Exploratory Data Analysis (EDA).
+- Machine Learning workflows with scikit-learn.
+- Data preprocessing, feature scaling, and pipelines.
+- Model evaluation, cross-validation, and hyperparameter tuning.
+
+**Current goal:** Progress from learning individual tools to building complete, well-documented Machine Learning projects.
+
+## 🧰 Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash" alt="Git, GitHub, VS Code, Linux, and Bash" />
+</p>
+
+## 🔭 Exploring the Intersection of AI & Security
+
+One of my long-term interests is **AI Security**: understanding how AI systems can be attacked, evaluated, and protected.
+
+I'm interested in gradually developing the foundations needed to explore areas such as:
+
+- Security testing for AI-powered applications.
+- Risks associated with LLM-integrated systems.
+- Secure development and deployment of AI applications.
+- The intersection of Machine Learning and cybersecurity.
+
+These are learning goals, not claims of professional AI Security experience.
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahme22d&show_icons=true&hide_border=true&theme=tokyonight" height="165" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahme22d&layout=compact&hide_border=true&theme=tokyonight" height="165" alt="Most-used repository languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahme22d&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahme22d&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most-used repository languages" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ahme22d&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
-## 📌 Featured Projects
+## 🚀 Projects & Practical Work
 
-I'm building my public project portfolio. This section will feature completed projects with source code, documentation, and results as they become available.
+I'm working toward building a public portfolio that demonstrates my skills through practical, documented work.
 
-<!-- Add project links here after publishing your repositories. -->
+This section will grow as I publish projects with source code, explanations, and reproducible results.
+
+<!-- Add links to completed public repositories here. -->
 
 ## 🤝 Contact Me
 
@@ -101,4 +148,10 @@ I'm building my public project portfolio. This section will feature completed pr
   <a href="tel:+201097794192">
     <img src="https://img.shields.io/badge/Phone-01097794192-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
   </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Learn with purpose. Teach with clarity. Build with curiosity.</i>
 </p>
