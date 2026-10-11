@@ -58,8 +58,8 @@ My current focus is building a solid foundation in data analysis and Machine Lea
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
   <img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logoColor=white" alt="Nmap" />
-  <img src="https://img.shields.io/badge/ffuf-333333?style=for-the-badge&logoColor=white" alt="ffuf" />
-  <img src="https://img.shields.io/badge/Gobuster-333333?style=for-the-badge&logoColor=white" alt="Gobuster" />
+  <img src="https://img.shields.io/badge/ffuf-333333?style=for-the-badge" alt="ffuf">
+  <img src="https://img.shields.io/badge/Gobuster-333333?style=for-the-badge" alt="Gobuster">
 </p>
 
 - Web application penetration testing.
