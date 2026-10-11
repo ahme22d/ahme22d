@@ -1,16 +1,107 @@
-## Hi there 👋
+# Ahmed Elkaliny
+### Computer Science Student | AI/ML Learner | Junior Penetration Tester
 
-<!--
-**ahme22d/ahme22d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Exploring+Artificial+Intelligence;Learning+Machine+Learning+with+Python;Practicing+Web+and+Network+Security;Teaching+and+Sharing+Knowledge" alt="Introduction" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/ahme22d">
+    <img src="https://img.shields.io/badge/GitHub-ahme22d-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <img src="https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Cybersecurity-Penetration%20Testing-2E8B57?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Cybersecurity" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👋 About Me
+
+I'm a third-year student at the **Faculty of Computers and Information, Tanta University**, interested in Artificial Intelligence, Machine Learning, and Cybersecurity.
+
+I also work as an instructor at **eYouth** and a tutor at **iSchool**, where I develop my technical communication and teaching skills.
+
+My current focus is building a solid foundation in data analysis and Machine Learning while continuing to develop my penetration testing and security assessment skills.
+
+- 🎓 Computer Science student at Tanta University.
+- 🤖 Learning Machine Learning with Python and scikit-learn.
+- 🔐 Interested in web application security, network penetration testing, and OSINT.
+- 👨‍🏫 Instructor at eYouth and tutor at iSchool.
+- 🚀 Long-term goal: explore the intersection of AI and Cybersecurity.
+
+## 🛠️ Technical Skills
+
+### AI, Data Analysis & Programming
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,matplotlib,git,github" alt="Python, data analysis and development tools" />
+</p>
+
+- **Python:** Programming fundamentals and OOP.
+- **NumPy:** Array operations, indexing, broadcasting, and numerical computation.
+- **Pandas:** DataFrames, data cleaning, grouping, merging, and analysis.
+- **Matplotlib:** Data visualization and exploratory data analysis.
+- **scikit-learn:** Currently learning Machine Learning workflows and model evaluation.
+
+### Cybersecurity
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,bash" alt="Linux and Bash" />
+</p>
+
+- Web application penetration testing.
+- Network scanning and service enumeration with Nmap.
+- Reconnaissance, OSINT, DNS, and subdomain discovery.
+- Web testing and request analysis using Burp Suite.
+- Directory and endpoint discovery using tools such as ffuf and Gobuster.
+- Networking fundamentals, including VLANs, ACLs, and OSPF.
+
+*These skills describe my learning and practical focus; specific experience varies by topic.*
+
+### Teaching & Communication
+
+- Technical instruction and programming education.
+- Explaining technical concepts in an accessible way.
+- Supporting learners through structured learning activities.
+
+## 📚 Current Learning Focus
+
+- Machine Learning fundamentals with scikit-learn.
+- Data preprocessing, feature scaling, pipelines, and cross-validation.
+- Model selection and hyperparameter tuning.
+- Continued practice in web and network penetration testing.
+- Exploring AI Security as a future specialization.
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahme22d&show_icons=true&hide_border=true&theme=tokyonight" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahme22d&layout=compact&hide_border=true&theme=tokyonight" height="165" alt="Most-used repository languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ahme22d&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+## 📌 Featured Projects
+
+I'm building my public project portfolio. This section will feature completed projects with source code, documentation, and results as they become available.
+
+<!-- Add project links here after publishing your repositories. -->
+
+## 🤝 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/ahmedelkaliny">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ahmedelkaliny832@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Learning consistently. Building practical skills. Improving one project at a time.</i>
+</p>
