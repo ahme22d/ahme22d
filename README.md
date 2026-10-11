@@ -1,6 +1,6 @@
 # Ahmed Elkaliny
 
-### Computer Science Student | AI/ML Learner | Junior Penetration Tester
+### Computer Science Student | AI/ML Learner | Junior Penetration Tester | Instructor
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Exploring+Artificial+Intelligence;Learning+Machine+Learning+with+Python;Practicing+Web+and+Network+Security;Teaching+and+Sharing+Knowledge" alt="Introduction" />
